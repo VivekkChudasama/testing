@@ -1,3 +1,3 @@
 # testing
 
-hello stest
+hello test
